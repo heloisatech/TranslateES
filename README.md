@@ -1,0 +1,2 @@
+
+Translate EmulationStation on Retropie
