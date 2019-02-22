@@ -101,6 +101,3 @@ _Thanks to:_
 * [wakaya](https://retropie.org.uk/forum/user/wakaya) - For the Japanese translations and for the instructions on how to use the localized EmulationStation.
 * [flyinghead](https://github.com/flyinghead) - For the French translations
 * Unknown - For the Italian translations
-
-
-* [wakaya](https://retropie.org.uk/forum/user/wakaya) - For the Installation tutorial
