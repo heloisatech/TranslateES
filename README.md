@@ -14,6 +14,7 @@ Inspired by similar work on the Recalbox fork.
 * Italian
 * Japanese
 * Catalan
+* German
 
 ***
 
