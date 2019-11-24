@@ -13,6 +13,7 @@ Inspired by similar work on the Recalbox fork.
 * French
 * Italian
 * Japanese
+* Korean
 * Catalan
 * German
 
@@ -103,3 +104,4 @@ _Thanks to:_
 * [flyinghead](https://github.com/flyinghead) - For the French translations
 * [Taranchul](https://github.com/Taranchul) - For the German translations.
 * Unknown - For the Italian translations
+* [losernator](https://github.com/losernator) - For the Korean translations.
